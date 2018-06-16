@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head><title>Formulario</title>
+  </head> 
+<body></body>
+</html>
+  
