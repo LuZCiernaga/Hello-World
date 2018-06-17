@@ -2,6 +2,6 @@
 <html>
 <head><title>Formulario</title>
   </head> 
-<body></body>
-</html>
+< body>
+  <div class>Datos</div class></body>
   
